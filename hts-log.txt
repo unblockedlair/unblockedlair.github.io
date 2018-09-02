@@ -1,0 +1,39 @@
+HTTrack3.49-2 launched on Sun, 02 Sep 2018 15:48:22 at https://sites.google.com/site/unblockedlair/
+(httrack https://sites.google.com/site/unblockedlair/ -O Desktop )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:49:08	Warning: 	Link https://sites.google.com/site/unblockedlair/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+15:49:08	Error: 	"Bad Request" (400) at link https://sites.google.com/site/unblockedlair/_/tz (from https://sites.google.com/site/unblockedlair/)
+15:49:24	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/___________________coolmath-rotate-roll.swf.1535119248776?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=50)
+15:49:24	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/___________earn-to-die-super-wheel.swf.1535119248720?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=50)
+15:49:24	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/mario_flash2_by_legoman824-d98crd4.swf.1535119248674?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=50)
+15:49:24	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/Hacked Happy Wheels.swf.1535119248573?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=50)
+15:49:24	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/btd5.swf.1535119248628?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=50)
+15:49:24	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/happy-wheels-test.1535118834662 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=50)
+15:49:38	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/3d-stunt-pilot.1535063454380 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=125)
+15:49:38	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/super-mario-flash-2.1535063061905 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=125)
+15:49:42	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/rotate-and-roll.1535062194984 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=150)
+15:49:54	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/Doom.html.1535061109038?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=175)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/announcements.1535057437608 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/announcements.1535057437608/announcements.gif.1535057437586?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/announcements.1535057437608/companylunchtoday.1535057437604 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/resources.1535057400593/resources.gif.1535057400580?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/resources.1535057400593 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/contact.1535057382877/contact.gif.1535057382866?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/contact.1535057382877 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/discussion.1535057348150 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:06	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/discussion.1535057348150/discussion.gif.1535057348129?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=200)
+15:50:13	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/discussion.1535057348150/faxmachine.1535057348147 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=225)
+15:50:13	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/directory.1535057328189 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=225)
+15:50:13	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/directory.1535057328189/directory.gif.1535057328160?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=225)
+15:50:13	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/calendar.1535057305590/calendar.gif.1535057305538?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=225)
+15:50:13	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/calendar.1535057305590 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=225)
+15:50:13	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/documents.1535057279958/documents.gif.1535057279946?attredirects=0 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=225)
+15:50:13	Error: 	"Not Found" (404) at link https://sites.google.com/site/unblockedlair/documents.1535057279958 (from https://sites.google.com/site/unblockedlair/system/app/pages/recentChanges?offset=225)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 83 links scanned, 55 files written (1082466 bytes overall) [654143 bytes received at 5893 bytes/sec], 1561337 bytes transferred using HTTP compression in 97 files, ratio 28%
+(27 errors, 1 warnings, 0 messages)
